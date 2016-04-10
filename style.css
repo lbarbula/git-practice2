@@ -1,6 +1,4 @@
-*{
-  background-color:red;
-}
+
 #hackers {
   background-color:green;
 }
@@ -15,7 +13,9 @@
 }
 .left {
   float: left;
+  clear: both;
 }
 .right {
   float: right;
+  clear: both;
 }
